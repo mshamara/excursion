@@ -1,6 +1,7 @@
-html {
-  font-family: Verdana;
-  align: center;
+body {
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
 }
 
 h1 {
@@ -13,7 +14,7 @@ h2 {
   font-size: 40px;
 }
 
-h1 h2 {
+h1, h2 {
   color: white;
 }
 
